@@ -7,8 +7,8 @@
    <p><label for="inp03">Nick Name:</label>
    <input type="text" name="nick" id="inp03" size="40" ></p>
    <p>Preferred Time:<br/>
-    <input type="radio" name="when" value="am">AM<br>
-    <input type="radio" name="when" value="pm" checked>PM</p>
+    <input type="radio" name="when_am" value="am">AM<br>
+    <input type="radio" name="when_pm" value="pm" checked>PM</p>
    <p>Classes taken:<br/>
     <input type="checkbox" name="class1" value="si502" checked>
         SI502 - Networked Tech<br>

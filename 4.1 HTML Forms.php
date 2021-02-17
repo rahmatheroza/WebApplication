@@ -1,7 +1,7 @@
 <p>Guessing game...</p>
 <form>
    <p><label for="guess">Input Guess</label>
-   <input type="text" name="guess" id="guess"/></p>
+   <input type="text" name="guess_no" id="guess_text"/></p>
    <input type="submit"/>
 </form>
 <pre>

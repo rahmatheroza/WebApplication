@@ -1,5 +1,5 @@
 <p>Many field types...</p>
-<form method="post" action="more.php">
+<form method="post">
    <p><label for="inp01">Account:</label>
    <input type="text" name="account" id="inp01" size="40" ></p>
    <p><label for="inp02">Password:</label>

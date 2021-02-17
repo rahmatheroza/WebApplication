@@ -4,7 +4,7 @@ Taken from
 <a href="http://www.w3schools.com/html/html5_form_input_types.asp" target="_blank">
 http://www.w3schools.com/html/html5_form_input_types.asp</a></p>
 
-<form method="post" action="<?php echo htmlspecialchars($_SERVER[‘PHP_SELF’]); ?>">
+<form method="post" action="">
 
 Select your favorite color: <input type="color" name="favcolor" value="#0000ff"><br/>
 Birthday: <input type="date" name="bday" value="2013-09-02"><br/>

@@ -30,3 +30,5 @@ SELECT * FROM Users WHERE name LIKE '%e%';
 SELECT * FROM Users ORDER BY email DESC LIMIT 2;
 
 SELECT * FROM Users ORDER BY email LIMIT 1,2;
+
+SELECT * FROM Users;

@@ -10,7 +10,7 @@
         } else  {
             $_SESSION['message'] = "Too high...";
         }
-        header("Location: guess2.php");
+        header("Location: guess2.php");//sesuaikan nama file.php agar redirect ke file ini kembali
         return;
     }
 ?>
